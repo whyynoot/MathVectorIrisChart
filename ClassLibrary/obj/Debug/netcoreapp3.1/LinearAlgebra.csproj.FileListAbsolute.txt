@@ -1,0 +1,9 @@
+C:\Users\mlgan\source\repos\MathVector\ClassLibrary\obj\Debug\netcoreapp3.1\LinearAlgebra.csprojAssemblyReference.cache
+C:\Users\mlgan\source\repos\MathVector\ClassLibrary\obj\Debug\netcoreapp3.1\LinearAlgebra.AssemblyInfoInputs.cache
+C:\Users\mlgan\source\repos\MathVector\ClassLibrary\obj\Debug\netcoreapp3.1\LinearAlgebra.AssemblyInfo.cs
+C:\Users\mlgan\source\repos\MathVector\ClassLibrary\obj\Debug\netcoreapp3.1\LinearAlgebra.csproj.CoreCompileInputs.cache
+C:\Users\mlgan\source\repos\MathVector\ClassLibrary\bin\Debug\netcoreapp3.1\LinearAlgebra.deps.json
+C:\Users\mlgan\source\repos\MathVector\ClassLibrary\bin\Debug\netcoreapp3.1\LinearAlgebra.dll
+C:\Users\mlgan\source\repos\MathVector\ClassLibrary\bin\Debug\netcoreapp3.1\LinearAlgebra.pdb
+C:\Users\mlgan\source\repos\MathVector\ClassLibrary\obj\Debug\netcoreapp3.1\LinearAlgebra.dll
+C:\Users\mlgan\source\repos\MathVector\ClassLibrary\obj\Debug\netcoreapp3.1\LinearAlgebra.pdb

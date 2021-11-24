@@ -1,0 +1,10 @@
+C:\Users\mlgan\source\repos\MathVector\ClassLibrary\bin\Release\netstandard2.0\LinearAlgebra.deps.json
+C:\Users\mlgan\source\repos\MathVector\ClassLibrary\bin\Release\netstandard2.0\LinearAlgebra.dll
+C:\Users\mlgan\source\repos\MathVector\ClassLibrary\bin\Release\netstandard2.0\LinearAlgebra.pdb
+C:\Users\mlgan\source\repos\MathVector\ClassLibrary\obj\Release\netstandard2.0\LinearAlgebra.csprojAssemblyReference.cache
+C:\Users\mlgan\source\repos\MathVector\ClassLibrary\obj\Release\netstandard2.0\LinearAlgebra.AssemblyInfoInputs.cache
+C:\Users\mlgan\source\repos\MathVector\ClassLibrary\obj\Release\netstandard2.0\LinearAlgebra.AssemblyInfo.cs
+C:\Users\mlgan\source\repos\MathVector\ClassLibrary\obj\Release\netstandard2.0\LinearAlgebra.csproj.CoreCompileInputs.cache
+C:\Users\mlgan\source\repos\MathVector\ClassLibrary\obj\Release\netstandard2.0\LinearAlgebra.dll
+C:\Users\mlgan\source\repos\MathVector\ClassLibrary\obj\Release\netstandard2.0\LinearAlgebra.pdb
+C:\Users\mlgan\source\repos\MathVector\ClassLibrary\obj\Release\netstandard2.0\LinearAlgebra.GeneratedMSBuildEditorConfig.editorconfig
