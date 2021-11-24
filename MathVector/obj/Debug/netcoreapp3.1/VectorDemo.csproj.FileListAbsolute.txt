@@ -1,0 +1,16 @@
+C:\Users\mlgan\source\repos\MathVector\MathVector\bin\Debug\netcoreapp3.1\VectorDemo.exe
+C:\Users\mlgan\source\repos\MathVector\MathVector\bin\Debug\netcoreapp3.1\VectorDemo.deps.json
+C:\Users\mlgan\source\repos\MathVector\MathVector\bin\Debug\netcoreapp3.1\VectorDemo.runtimeconfig.json
+C:\Users\mlgan\source\repos\MathVector\MathVector\bin\Debug\netcoreapp3.1\VectorDemo.runtimeconfig.dev.json
+C:\Users\mlgan\source\repos\MathVector\MathVector\bin\Debug\netcoreapp3.1\VectorDemo.dll
+C:\Users\mlgan\source\repos\MathVector\MathVector\bin\Debug\netcoreapp3.1\VectorDemo.pdb
+C:\Users\mlgan\source\repos\MathVector\MathVector\bin\Debug\netcoreapp3.1\LinearAlgebra.dll
+C:\Users\mlgan\source\repos\MathVector\MathVector\bin\Debug\netcoreapp3.1\LinearAlgebra.pdb
+C:\Users\mlgan\source\repos\MathVector\MathVector\obj\Debug\netcoreapp3.1\VectorDemo.csprojAssemblyReference.cache
+C:\Users\mlgan\source\repos\MathVector\MathVector\obj\Debug\netcoreapp3.1\VectorDemo.AssemblyInfoInputs.cache
+C:\Users\mlgan\source\repos\MathVector\MathVector\obj\Debug\netcoreapp3.1\VectorDemo.AssemblyInfo.cs
+C:\Users\mlgan\source\repos\MathVector\MathVector\obj\Debug\netcoreapp3.1\VectorDemo.csproj.CoreCompileInputs.cache
+C:\Users\mlgan\source\repos\MathVector\MathVector\obj\Debug\netcoreapp3.1\VectorDemo.csproj.CopyComplete
+C:\Users\mlgan\source\repos\MathVector\MathVector\obj\Debug\netcoreapp3.1\VectorDemo.dll
+C:\Users\mlgan\source\repos\MathVector\MathVector\obj\Debug\netcoreapp3.1\VectorDemo.pdb
+C:\Users\mlgan\source\repos\MathVector\MathVector\obj\Debug\netcoreapp3.1\VectorDemo.genruntimeconfig.cache

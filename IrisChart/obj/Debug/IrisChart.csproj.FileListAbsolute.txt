@@ -1,0 +1,13 @@
+C:\Users\mlgan\source\repos\MathVector\IrisChart\bin\Debug\IrisChart.exe.config
+C:\Users\mlgan\source\repos\MathVector\IrisChart\bin\Debug\IrisChart.exe
+C:\Users\mlgan\source\repos\MathVector\IrisChart\bin\Debug\IrisChart.pdb
+C:\Users\mlgan\source\repos\MathVector\IrisChart\obj\Debug\IrisChart.csprojAssemblyReference.cache
+C:\Users\mlgan\source\repos\MathVector\IrisChart\obj\Debug\IrisChart.Form1.resources
+C:\Users\mlgan\source\repos\MathVector\IrisChart\obj\Debug\IrisChart.Properties.Resources.resources
+C:\Users\mlgan\source\repos\MathVector\IrisChart\obj\Debug\IrisChart.csproj.GenerateResource.cache
+C:\Users\mlgan\source\repos\MathVector\IrisChart\obj\Debug\IrisChart.csproj.CoreCompileInputs.cache
+C:\Users\mlgan\source\repos\MathVector\IrisChart\obj\Debug\IrisChart.exe
+C:\Users\mlgan\source\repos\MathVector\IrisChart\obj\Debug\IrisChart.pdb
+C:\Users\mlgan\source\repos\MathVector\IrisChart\bin\Debug\LinearAlgebra.dll
+C:\Users\mlgan\source\repos\MathVector\IrisChart\bin\Debug\LinearAlgebra.pdb
+C:\Users\mlgan\source\repos\MathVector\IrisChart\obj\Debug\IrisChart.csproj.CopyComplete
